@@ -17,10 +17,10 @@ const App: React.FC = () => {
 			<Container>
 				<NavBar />
 				<Switch>
-					<Route path='/' exact>
+					<Route path='*' exact>
 						<Home />
 					</Route>
-					<Route path='/' exact>
+					<Route path='/home' exact>
 						<Home />
 					</Route>
 					<Route path='/search/:query'>
