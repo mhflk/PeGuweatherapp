@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/PeGuweatherapp/precache-manifest.dab5fad9430a04d4e9457805c9b4c80a.js"
+  "/PeGuweatherapp/precache-manifest.07b77df454f7efec3be2bcc99d3697a6.js"
 );
 
 self.addEventListener('message', (event) => {
