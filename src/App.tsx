@@ -17,7 +17,7 @@ const App: React.FC = () => {
 			<Container>
 				<NavBar />
 				<Switch>
-					<Route path='/' exact>
+					<Route path='/home' exact>
 						<Home />
 					</Route>
 					<Route path='/home' exact>
