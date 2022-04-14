@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e06e1692339cf150218e4d78f380aac3",
+    "revision": "4aeabb9e70d19c5531bfc8d1d602f544",
     "url": "/PeGuweatherapp/index.html"
   },
   {
-    "revision": "6794bcd4de13daeebbd1",
+    "revision": "8d9fdeb8f6264f315bc2",
     "url": "/PeGuweatherapp/static/css/main.da1f3f23.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/PeGuweatherapp/static/js/2.b11f209a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6794bcd4de13daeebbd1",
-    "url": "/PeGuweatherapp/static/js/main.5f39b26f.chunk.js"
+    "revision": "8d9fdeb8f6264f315bc2",
+    "url": "/PeGuweatherapp/static/js/main.5ba50e9d.chunk.js"
   },
   {
     "revision": "2f14b2ff20bc8fc1a5e3",

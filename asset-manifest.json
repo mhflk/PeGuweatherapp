@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/PeGuweatherapp/static/css/main.da1f3f23.chunk.css",
-    "main.js": "/PeGuweatherapp/static/js/main.5f39b26f.chunk.js",
-    "main.js.map": "/PeGuweatherapp/static/js/main.5f39b26f.chunk.js.map",
+    "main.js": "/PeGuweatherapp/static/js/main.5ba50e9d.chunk.js",
+    "main.js.map": "/PeGuweatherapp/static/js/main.5ba50e9d.chunk.js.map",
     "runtime-main.js": "/PeGuweatherapp/static/js/runtime-main.003306c9.js",
     "runtime-main.js.map": "/PeGuweatherapp/static/js/runtime-main.003306c9.js.map",
     "static/js/2.b11f209a.chunk.js": "/PeGuweatherapp/static/js/2.b11f209a.chunk.js",
     "static/js/2.b11f209a.chunk.js.map": "/PeGuweatherapp/static/js/2.b11f209a.chunk.js.map",
     "index.html": "/PeGuweatherapp/index.html",
-    "precache-manifest.8228488a8ae245087ae499d4a97b703d.js": "/PeGuweatherapp/precache-manifest.8228488a8ae245087ae499d4a97b703d.js",
+    "precache-manifest.dab5fad9430a04d4e9457805c9b4c80a.js": "/PeGuweatherapp/precache-manifest.dab5fad9430a04d4e9457805c9b4c80a.js",
     "service-worker.js": "/PeGuweatherapp/service-worker.js",
     "static/css/main.da1f3f23.chunk.css.map": "/PeGuweatherapp/static/css/main.da1f3f23.chunk.css.map",
     "static/js/2.b11f209a.chunk.js.LICENSE.txt": "/PeGuweatherapp/static/js/2.b11f209a.chunk.js.LICENSE.txt",
@@ -25,6 +25,6 @@
     "static/js/runtime-main.003306c9.js",
     "static/js/2.b11f209a.chunk.js",
     "static/css/main.da1f3f23.chunk.css",
-    "static/js/main.5f39b26f.chunk.js"
+    "static/js/main.5ba50e9d.chunk.js"
   ]
 }
